@@ -1,0 +1,1 @@
+void matmul_mm(double* A, double* B, double* C, int M, int N, int K);
